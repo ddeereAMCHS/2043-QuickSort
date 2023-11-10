@@ -1,12 +1,12 @@
 # Quick Sort
 
-## Due: Thur 12/1 at 11:59 PM
+## Due: Wed 11/15 at 11:59 PM
 
 ### No Googling the quick sort algorithm
 
 - Create a program called `QuickSort.java`
 - Create a void static method that implements the quick sort algorithm
-  - For this, you will also need to create a static method that partitions the array and returns the index of the pivot value
+  - For this, you will also need to create a static method that partitions the array and returns the index of the pivot value after it has been partitioned
 - In the main method:
   - Prompt the user to enter a filename containing the data to read in
   - Read from that file
